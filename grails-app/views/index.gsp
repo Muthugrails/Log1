@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta name="layout" content="main" />
+    <meta name="layout" content="bootstrap" />
     <title>Login</title>         
   </head>
   <body>
